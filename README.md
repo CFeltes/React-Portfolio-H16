@@ -57,8 +57,9 @@ Step-by-step instructions on how to install and set up your project.
 Instructions on how to use your application.
 
 Visit my sites here!
-https://CFeltes.github.io/React-Portfolio-H16/
-https://github.com/CFeltes/React-Portfolio-H16
+https://cfeltes.github.io/React-Portfolio-H16/
+https://github.com/CFeltes/React-Portfolio-H16.git
+git@github.com:CFeltes/React-Portfolio-H16.git
 
 
 
