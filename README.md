@@ -60,9 +60,6 @@ Visit my sites here!
 https://CFeltes.github.io/React-Portfolio-H16/
 https://github.com/CFeltes/React-Portfolio-H16
 
-![See First Page Screenshot](Screenshot-1.jpg)
-![See Secord Page Screenshot](Screenshot-2.jpg)
-![See Third Page Screenshot](Screenshot-3.jpg)
 
 
 ## Contributing
